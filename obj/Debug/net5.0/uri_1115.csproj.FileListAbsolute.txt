@@ -1,0 +1,16 @@
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.csprojAssemblyReference.cache
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.GeneratedMSBuildEditorConfig.editorconfig
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.AssemblyInfoInputs.cache
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.AssemblyInfo.cs
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.csproj.CoreCompileInputs.cache
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\uri_1115.exe
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\uri_1115.deps.json
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\uri_1115.runtimeconfig.json
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\uri_1115.runtimeconfig.dev.json
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\uri_1115.dll
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\ref\uri_1115.dll
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\bin\Debug\net5.0\uri_1115.pdb
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.dll
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\ref\uri_1115.dll
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.pdb
+D:\.07 - Desenvolvimento_Programação\07 - Curso C#\01 - C# lógica de programação\URI\uri_1115\obj\Debug\net5.0\uri_1115.genruntimeconfig.cache
